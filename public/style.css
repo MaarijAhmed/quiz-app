@@ -1,0 +1,21 @@
+fieldset{
+    border: 5px solid white
+}
+.main-content{
+    font-weight: 900;
+    font-size: 23px;
+    color: #ffffff
+}
+body{
+    background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero-00e10b1f.jpg");
+}
+#result{
+margin-left: 900px;
+font-weight: 800;
+}
+.Heading-quiz{
+    font-family: Sans-Serif;
+    color: aquamarine;
+    text-align: center;
+    font-size: 60px;
+}
